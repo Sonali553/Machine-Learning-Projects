@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-In this repository you can find the various beginners friendly machine learning projects
+# Machine-Learning-Project
+In this repository you can find Diabetic Identification machine learning project
